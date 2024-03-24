@@ -1,0 +1,10 @@
+threading
+socket
+sys
+signal
+select
+numpy
+pandas
+pynput
+pyinstaller
+auto-py-to-exe
