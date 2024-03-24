@@ -118,3 +118,10 @@ Now you have set up both the client and server components of W1reGh0st. You can 
 
 ## Preview
 ![Test](https://github.com/heshamm1/w1regh0st/blob/main/Media/W1regh0st.gif) 
+
+
+## Note
+W1reGh0st should only be used for authorized testing and monitoring purposes. Unauthorized use may violate privacy laws and regulations.
+
+Feel free to adjust the content according to your specific project needs and guidelines.
+
