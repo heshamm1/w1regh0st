@@ -103,9 +103,9 @@ git clone https://github.com/heshamm1/w1regh0st.git && cd w1regh0st
 pip3 install -r requirements.txt
 ```
 #### Configuration:
-  * Navigate to the client directory and edit the config.py file
-  * Set the SERVER_IP variable to your server's IP address.
-  * Set the SERVER_PORT variable to the desired port number.
+  * Navigate to the client script and edit the configuration.
+  * Set the ServerIP variable to your server's IP address.
+  * Set the ServerPort variable to the desired port number.
 
 #### Generate EXE file:
 * For a standalone EXE file without a console window:
